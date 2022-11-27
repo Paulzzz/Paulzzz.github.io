@@ -57,3 +57,9 @@ http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,CHC 高清电影
 http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
+#EXTINF:-1,Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,MUZZIK ZZ4000 4K
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
