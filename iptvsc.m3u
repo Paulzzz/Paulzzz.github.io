@@ -45,3 +45,11 @@ http://101.207.178.26:80/PLTV/88888888/224/3221227401/1.m3u8
 http://175.153.118.130:80/PLTV/88888888/224/3221227397/1.m3u8
 #EXTINF:-1,深圳卫视
 http://101.207.178.26:80/PLTV/88888888/224/3221227419/1.m3u8
+#EXTINF:-1,NASA TV UHD
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1,CHC 动作电影
+http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1,CHC 家庭影院
+http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1,CHC 高清电影
+http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
